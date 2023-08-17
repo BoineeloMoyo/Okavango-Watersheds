@@ -1,7 +1,7 @@
 # Okavango-Watersheds
 # Okavango Delta Rivers and Tributaries Visualization
 
-This mini project focuses on visualizing rivers and tributaries for the Okavango Delta using the HydroSHEDS dataset. HydroSHEDS is a mapping product that provides hydrographic information for regional and global-scale applications in a consistent format. It was developed by the World Wildlife Fund (WWF) Conservation Science Program in partnership with the U.S. Geological Survey, the International Centre for Tropical Agriculture, The Nature Conservancy, and the Center for Environmental Systems Research of the University of Kassel, Germany.
+This mini project focuses on visualizing rivers and tributaries for the Okavango Delta using the [HydroSHEDS dataset](https://www.hydrosheds.org/). HydroSHEDS is a mapping product that provides hydrographic information for regional and global-scale applications in a consistent format. It was developed by the World Wildlife Fund (WWF) Conservation Science Program in partnership with the U.S. Geological Survey, the International Centre for Tropical Agriculture, The Nature Conservancy, and the Center for Environmental Systems Research of the University of Kassel, Germany.
 
 ## Dataset
 The primary dataset used for this visualization is the HydroSHEDS dataset. It provides detailed hydrographic information, including rivers, tributaries, and other water-related features, in a consistent format. The HydroSHEDS dataset is widely used for hydrological and environmental analyses and is suitable for regional and global-scale applications.
